@@ -411,6 +411,7 @@ footer{
 	color: #ffffff;
 	font-size: 14px;
 	line-height: 30px;
+	font-weight: lighter;
 }
 
 .footer-top {
@@ -434,6 +435,15 @@ footer{
 .footer-rights .rights-container p {
 	margin-bottom: 0;
 	margin-top: 12px;
+}
+
+.footer-rights a {
+	color: #d3d3d3;
+	text-decoration: none!important;
+}
+
+.footer-rights a:hover {
+	color: #a3a3a3;
 }
 /* END FOOTER */
 

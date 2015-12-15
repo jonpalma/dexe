@@ -17,7 +17,7 @@
 	<div class="footer-rights">
 		<div class="rights-container container">
 			<p>
-				Todos los derechos reservados Dexe 2015
+				Todos los derechos reservados Dexe 2015 | Design by: <a href="http://mixen.mx"><img src="http://mixen.mx/firma/logo-mixen.png" alt="Agencia Mixen"> mixen.mx</a>
 			</p>
 		</div>
 	</div>

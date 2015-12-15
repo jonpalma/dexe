@@ -5,35 +5,35 @@
 			<h1 class="orange">Videos</h1>
 			<div class="row center nolineheight">
 				<div class="col-sm-3 light-padding">
-					<img class="img-responsive center-block" src="img/user-general/Mediterraneo.png" alt="foto">
+					<img class="img-responsive center-block" src="img/user-general/1.png" alt="foto">
 					<img class="play-video" src="img/video/play.png" alt="Play Video" data-toggle="modal" data-target="#video-modal">
 				</div>
 				<div class="col-sm-3 light-padding">
-					<img class="img-responsive center-block" src="img/user-general/Diamante.png" alt="foto">
+					<img class="img-responsive center-block" src="img/user-general/2.png" alt="foto">
 					<img class="play-video" src="img/video/play.png" alt="Play Video" data-toggle="modal" data-target="#video-modal">
 				</div>
 				<div class="col-sm-3 light-padding">
-					<img class="img-responsive center-block" src="img/user-general/Pool.png" alt="foto">
+					<img class="img-responsive center-block" src="img/user-general/3.png" alt="foto">
 					<img class="play-video" src="img/video/play.png" alt="Play Video" data-toggle="modal" data-target="#video-modal">
 				</div>
 				<div class="col-sm-3 light-padding">
-					<img class="img-responsive center-block" src="img/user-general/Park.png" alt="foto">
+					<img class="img-responsive center-block" src="img/user-general/4.png" alt="foto">
 					<img class="play-video" src="img/video/play.png" alt="Play Video" data-toggle="modal" data-target="#video-modal">
 				</div>
 				<div class="col-sm-3 light-padding">
-					<img class="img-responsive center-block" src="img/user-general/Mediterraneo.png" alt="foto">
+					<img class="img-responsive center-block" src="img/user-general/1.png" alt="foto">
 					<img class="play-video" src="img/video/play.png" alt="Play Video" data-toggle="modal" data-target="#video-modal">
 				</div>
 				<div class="col-sm-3 light-padding">
-					<img class="img-responsive center-block" src="img/user-general/Diamante.png" alt="foto">
+					<img class="img-responsive center-block" src="img/user-general/2.png" alt="foto">
 					<img class="play-video" src="img/video/play.png" alt="Play Video" data-toggle="modal" data-target="#video-modal">
 				</div>
 				<div class="col-sm-3 light-padding">
-					<img class="img-responsive center-block" src="img/user-general/Pool.png" alt="foto">
+					<img class="img-responsive center-block" src="img/user-general/3.png" alt="foto">
 					<img class="play-video" src="img/video/play.png" alt="Play Video" data-toggle="modal" data-target="#video-modal">
 				</div>
 				<div class="col-sm-3 light-padding">
-					<img class="img-responsive center-block" src="img/user-general/Park.png" alt="foto">
+					<img class="img-responsive center-block" src="img/user-general/4.png" alt="foto">
 					<img class="play-video" src="img/video/play.png" alt="Play Video" data-toggle="modal" data-target="#video-modal">
 				</div>
 			</div>
