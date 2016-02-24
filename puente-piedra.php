@@ -158,9 +158,113 @@
 				</div>
 				<div class="item">
 					<div class="carousel-caption center-block">
-						<div class="col-xs-4 img-spacing"></div>
 						<div class="col-xs-4 img-spacing">
 							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/028.jpg"><img class="img-responsive center-block" src="img/puente/28.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/029.jpg"><img class="img-responsive center-block" src="img/puente/29.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/030.jpg"><img class="img-responsive center-block" src="img/puente/30.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/031.jpg"><img class="img-responsive center-block" src="img/puente/31.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/032.jpg"><img class="img-responsive center-block" src="img/puente/32.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/033.jpg"><img class="img-responsive center-block" src="img/puente/33.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/034.jpg"><img class="img-responsive center-block" src="img/puente/34.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/035.jpg"><img class="img-responsive center-block" src="img/puente/35.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/036.jpg"><img class="img-responsive center-block" src="img/puente/36.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/037.jpg"><img class="img-responsive center-block" src="img/puente/37.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/038.jpg"><img class="img-responsive center-block" src="img/puente/38.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/039.jpg"><img class="img-responsive center-block" src="img/puente/39.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/040.jpg"><img class="img-responsive center-block" src="img/puente/40.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/041.jpg"><img class="img-responsive center-block" src="img/puente/41.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/042.jpg"><img class="img-responsive center-block" src="img/puente/42.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/043.jpg"><img class="img-responsive center-block" src="img/puente/43.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/044.jpg"><img class="img-responsive center-block" src="img/puente/44.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/045.jpg"><img class="img-responsive center-block" src="img/puente/45.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/046.jpg"><img class="img-responsive center-block" src="img/puente/46.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/047.jpg"><img class="img-responsive center-block" src="img/puente/47.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/048.jpg"><img class="img-responsive center-block" src="img/puente/48.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/049.jpg"><img class="img-responsive center-block" src="img/puente/49.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/050.jpg"><img class="img-responsive center-block" src="img/puente/50.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/051.jpg"><img class="img-responsive center-block" src="img/puente/51.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing"></div>
+						<div class="col-xs-4 img-spacing">
+							<a data-toggle="lightbox" data-gallery="multiimages" href="img/puente/052.jpg"><img class="img-responsive center-block" src="img/puente/52.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing"></div>
 					</div>
@@ -217,7 +321,7 @@
 
 	<div class="map" fracc="alcantara">
 		<a href="https://www.google.com.mx/maps/place/28%C2%B038'55.8%22N+106%C2%B008'59.9%22W/@28.6488407,-106.1521457,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" target="_blank">
-			<img src="img/puente/map/map.png" alt="Mapa">
+			<img src="img/puente/map/map.jpg" alt="Mapa">
 		</a>
 	</div>
 </div>
