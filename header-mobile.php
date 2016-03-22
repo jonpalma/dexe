@@ -10,10 +10,21 @@
 		<link rel="stylesheet" href="css/colorbox.css">
 		<link rel="stylesheet" href="css/hover-effects.css">
 		<link rel="stylesheet" href="css/ekko-lightbox.css">
+		<link rel="stylesheet" href="css/lightgallery.min.css">
 		<link rel="stylesheet" href="css/style.css">
 		<script src="js/phonegap.js"></script>
 	</head>
 	<body <?php if($thispage=="index") echo 'data-spy="scroll" data-target=".navbar-nav"' ?>>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+									})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-74462329-1', 'auto');
+			ga('send', 'pageview');
+
+		</script>
 		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="container">
 				<!-- Brand and toggle get grouped for better mobile display -->
@@ -41,7 +52,7 @@
 						</li>
 						<li><a href="<?php if( !($thispage == 'index') ) echo 'index-mobile.php'; ?>#descargar" class="smoothScroll">Descargar App</a></li>
 						<li><a href="<?php if( !($thispage == 'index') ) echo 'index-mobile.php'; ?>#contacto" class="smoothScroll">Contacto</a></li>
-						<li><a href="http://mixen.mx/web/dexe-app/">Login</a></li>
+						<li><a href="http://dexe.mx/app/">Login</a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->

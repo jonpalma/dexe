@@ -51,7 +51,7 @@
 				<a href="https://play.google.com/store/apps/details?id=mx.mixen.dexe" class="download-btn center-block googlePlay" target="_blank"></a>
 			</div>
 			<div class="col-sm-6">
-				<a href="" class="download-btn center-block appStore"></a>
+				<a href="https://itunes.apple.com/mx/app/dexe-desarrolladora/id1085845668?mt=8" class="download-btn center-block appStore" target="_blank"></a>
 			</div>
 		</div>
 	</div>
@@ -59,7 +59,7 @@
 
 <div class="contacto container spacing" id="contacto">
 	<h1 class="title orange center">CONTACTO</h1>
-	<h3 class="title center text-uppercase">Aceptamos tu crédito de Infonavit e ISSSTE</h3>
+	<h3 class="title center text-uppercase">Aceptamos todo tipo de créditos</h3>
 	<div class="row">
 		<div class="col-sm-4">
 			<p class="contact-text">
@@ -76,7 +76,7 @@
 
 			<p class="contact-text">
 				<span class="orange">Correo:</span><br>
-				<a href="mailto:info@dexe.mx">info@dexe.mx</a>
+				<a href="mailto:ventas@dexe.mx">ventas@dexe.mx</a>
 			</p>
 		</div>
 		<div class="col-sm-8 border-left-gray">

@@ -114,6 +114,22 @@ img {
 	text-decoration: none;
 }
 
+.back-btn {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	color: #fff!important;
+	text-decoration: none!important;
+	border: 1px solid #fff;
+	padding: 5px 10px;
+	opacity: .7;
+	transition: opacity 200ms ease;
+}
+
+.back-btn:hover {
+	opacity: 1;
+}
+
 .light-black {
 	color: #1d1d1b;
 }
@@ -178,6 +194,10 @@ figure.effect-winston {
 
 .map img {
 	width: 100%;
+}
+
+a#lg-download {
+	display: none;
 }
 
 .ekko-lightbox {

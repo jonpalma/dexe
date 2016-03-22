@@ -38,108 +38,108 @@
 		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 			<!-- Wrapper for slides -->
-			<div class="carousel-inner" role="listbox">
+			<div class="carousel-inner" role="listbox" id="lightgallery">
 				<div class="item active">
 					<div class="carousel-caption center-block">
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/03.jpg"><img class="img-responsive center-block" src="img/victoria/3.jpg" alt=""></a>
+							<a class="item" href="img/victoria/03.jpg"><img class="img-responsive center-block" src="img/victoria/3.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/04.jpg"><img class="img-responsive center-block" src="img/victoria/4.jpg" alt=""></a>
+							<a class="item" href="img/victoria/04.jpg"><img class="img-responsive center-block" src="img/victoria/4.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/05.jpg"><img class="img-responsive center-block" src="img/victoria/5.jpg" alt=""></a>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="carousel-caption center-block">
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/06.jpg"><img class="img-responsive center-block" src="img/victoria/6.jpg" alt=""></a>
-						</div>
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/07.jpg"><img class="img-responsive center-block" src="img/victoria/7.jpg" alt=""></a>
-						</div>
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/08.jpg"><img class="img-responsive center-block" src="img/victoria/8.jpg" alt=""></a>
+							<a class="item" href="img/victoria/05.jpg"><img class="img-responsive center-block" src="img/victoria/5.jpg" alt=""></a>
 						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="carousel-caption center-block">
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/09.jpg"><img class="img-responsive center-block" src="img/victoria/9.jpg" alt=""></a>
+							<a class="item" href="img/victoria/06.jpg"><img class="img-responsive center-block" src="img/victoria/6.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/010.jpg"><img class="img-responsive center-block" src="img/victoria/10.jpg" alt=""></a>
+							<a class="item" href="img/victoria/07.jpg"><img class="img-responsive center-block" src="img/victoria/7.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/011.jpg"><img class="img-responsive center-block" src="img/victoria/11.jpg" alt=""></a>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="carousel-caption center-block">
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/012.jpg"><img class="img-responsive center-block" src="img/victoria/12.jpg" alt=""></a>
-						</div>
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/013.jpg"><img class="img-responsive center-block" src="img/victoria/13.jpg" alt=""></a>
-						</div>
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/014.jpg"><img class="img-responsive center-block" src="img/victoria/14.jpg" alt=""></a>
+							<a class="item" href="img/victoria/08.jpg"><img class="img-responsive center-block" src="img/victoria/8.jpg" alt=""></a>
 						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="carousel-caption center-block">
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/015.jpg"><img class="img-responsive center-block" src="img/victoria/15.jpg" alt=""></a>
+							<a class="item" href="img/victoria/09.jpg"><img class="img-responsive center-block" src="img/victoria/9.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/016.jpg"><img class="img-responsive center-block" src="img/victoria/16.jpg" alt=""></a>
+							<a class="item" href="img/victoria/010.jpg"><img class="img-responsive center-block" src="img/victoria/10.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/017.jpg"><img class="img-responsive center-block" src="img/victoria/17.jpg" alt=""></a>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="carousel-caption center-block">
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/018.jpg"><img class="img-responsive center-block" src="img/victoria/18.jpg" alt=""></a>
-						</div>
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/019.jpg"><img class="img-responsive center-block" src="img/victoria/19.jpg" alt=""></a>
-						</div>
-						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/020.jpg"><img class="img-responsive center-block" src="img/victoria/20.jpg" alt=""></a>
+							<a class="item" href="img/victoria/011.jpg"><img class="img-responsive center-block" src="img/victoria/11.jpg" alt=""></a>
 						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="carousel-caption center-block">
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/021.jpg"><img class="img-responsive center-block" src="img/victoria/21.jpg" alt=""></a>
+							<a class="item" href="img/victoria/012.jpg"><img class="img-responsive center-block" src="img/victoria/12.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/022.jpg"><img class="img-responsive center-block" src="img/victoria/22.jpg" alt=""></a>
+							<a class="item" href="img/victoria/013.jpg"><img class="img-responsive center-block" src="img/victoria/13.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/023.jpg"><img class="img-responsive center-block" src="img/victoria/23.jpg" alt=""></a>
+							<a class="item" href="img/victoria/014.jpg"><img class="img-responsive center-block" src="img/victoria/14.jpg" alt=""></a>
 						</div>
 					</div>
 				</div>
 				<div class="item">
 					<div class="carousel-caption center-block">
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/024.jpg"><img class="img-responsive center-block" src="img/victoria/24.jpg" alt=""></a>
+							<a class="item" href="img/victoria/015.jpg"><img class="img-responsive center-block" src="img/victoria/15.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/025.jpg"><img class="img-responsive center-block" src="img/victoria/25.jpg" alt=""></a>
+							<a class="item" href="img/victoria/016.jpg"><img class="img-responsive center-block" src="img/victoria/16.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/026.jpg"><img class="img-responsive center-block" src="img/victoria/26.jpg" alt=""></a>
+							<a class="item" href="img/victoria/017.jpg"><img class="img-responsive center-block" src="img/victoria/17.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/018.jpg"><img class="img-responsive center-block" src="img/victoria/18.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/019.jpg"><img class="img-responsive center-block" src="img/victoria/19.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/020.jpg"><img class="img-responsive center-block" src="img/victoria/20.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/021.jpg"><img class="img-responsive center-block" src="img/victoria/21.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/022.jpg"><img class="img-responsive center-block" src="img/victoria/22.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/023.jpg"><img class="img-responsive center-block" src="img/victoria/23.jpg" alt=""></a>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="carousel-caption center-block">
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/024.jpg"><img class="img-responsive center-block" src="img/victoria/24.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/025.jpg"><img class="img-responsive center-block" src="img/victoria/25.jpg" alt=""></a>
+						</div>
+						<div class="col-xs-4 img-spacing">
+							<a class="item" href="img/victoria/026.jpg"><img class="img-responsive center-block" src="img/victoria/26.jpg" alt=""></a>
 						</div>
 					</div>
 				</div>
@@ -147,7 +147,7 @@
 					<div class="carousel-caption center-block">
 						<div class="col-xs-4 img-spacing"></div>
 						<div class="col-xs-4 img-spacing">
-							<a data-toggle="lightbox" data-gallery="multiimages" href="img/victoria/027.jpg"><img class="img-responsive center-block" src="img/victoria/27.jpg" alt=""></a>
+							<a class="item" href="img/victoria/027.jpg"><img class="img-responsive center-block" src="img/victoria/27.jpg" alt=""></a>
 						</div>
 						<div class="col-xs-4 img-spacing"></div>
 					</div>

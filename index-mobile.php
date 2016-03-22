@@ -51,7 +51,7 @@
 
 <div class="contacto container spacing" id="contacto">
 	<h1 class="title orange center">CONTACTO</h1>
-	<h3 class="title center text-uppercase">Aceptamos tu crédito de Infonavit e ISSSTE</h3>
+	<h3 class="title center text-uppercase">Aceptamos todo tipo de créditos</h3>
 	<div class="row">
 		<div class="col-sm-4">
 			<p class="contact-text">
@@ -68,7 +68,7 @@
 
 			<p class="contact-text">
 				<span class="orange">Correo:</span><br>
-				<a href="mailto:info@dexe.com">info@dexe.mx</a>
+				<a href="mailto:ventas@dexe.com">ventas@dexe.mx</a>
 			</p>
 		</div>
 		<div class="col-sm-8 border-left-gray">

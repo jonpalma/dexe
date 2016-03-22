@@ -6,7 +6,7 @@
 				<strong>Contacto</strong><br>
 				Periférico de la Juventud / #4101 Local #23<br>
 				Plaza San Ángel / Chihuahua, Chih.<br>
-				(614) 426.0252 / info@dexe.mx<br>
+				(614) 426.0252 / ventas@dexe.mx<br>
 				<a href="#aviso" data-toggle="modal" data-target="#aviso">Aviso de Privacidad</a>
 			</p>
 			<figure class="effect-winston">
@@ -80,6 +80,17 @@
 <script src="js/bootstrap.js"></script>
 <script src="js/parallax.js"></script>
 <script src="js/ekko-lightbox.js"></script>
+<script src="js/lightgallery/lightgallery.min.js"></script>
+<script src="js/lightgallery/lg-zoom.min.js"></script>
+<script src="js/lightgallery/jquery.mousewheel.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		console.log($('#lightgallery'));
+		$('#lightgallery').lightGallery({
+			selector: 'a.item'
+		});
+	});
+</script>
 <script src="js/app.js"></script>
 </body>
 </html>
