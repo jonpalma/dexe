@@ -51,7 +51,7 @@
 						</li>
 						<li><a href="<?php if( !($thispage == 'index') ) echo 'index.php'; ?>#descargar" class="smoothScroll">Descargar App</a></li>
 						<li><a href="<?php if( !($thispage == 'index') ) echo 'index.php'; ?>#contacto" class="smoothScroll">Contacto</a></li>
-						<li><a href="http://mixen.mx/web/dexe-app/">Login</a></li>
+						<li><a href="http://dexe.mx/app/">Login</a></li>
 					</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->
