@@ -13,7 +13,7 @@
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
-				<img class="no-drag" src="img/index/banner/dexe2.jpg" alt="Banner">
+				<img class="no-drag" src="img/index/banner/1.jpg" alt="Banner">
 			</div>
 			<div class="item">
 				<img class="no-drag" src="img/index/banner/2.jpg" alt="Banner">
@@ -22,7 +22,10 @@
 				<img class="no-drag" src="img/index/banner/3.jpg" alt="Banner">
 			</div>
 			<div class="item">
-				<img class="no-drag" src="img/index/banner/dexe3.jpg" alt="Banner">
+				<img class="no-drag" src="img/index/banner/4.jpg" alt="Banner">
+			</div>
+			<div class="item">
+				<img class="no-drag" src="img/index/banner/5.jpg" alt="Banner">
 			</div>
 		</div>
 

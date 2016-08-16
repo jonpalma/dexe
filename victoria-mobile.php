@@ -40,121 +40,7 @@
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox" id="lightgallery">
-                <!--
-<div class="item active">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/03.jpg"><img class="img-responsive center-block" src="img/victoria/3.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/04.jpg"><img class="img-responsive center-block" src="img/victoria/4.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/05.jpg"><img class="img-responsive center-block" src="img/victoria/5.jpg" alt=""></a>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/06.jpg"><img class="img-responsive center-block" src="img/victoria/6.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/07.jpg"><img class="img-responsive center-block" src="img/victoria/7.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/08.jpg"><img class="img-responsive center-block" src="img/victoria/8.jpg" alt=""></a>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/09.jpg"><img class="img-responsive center-block" src="img/victoria/9.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/010.jpg"><img class="img-responsive center-block" src="img/victoria/10.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/011.jpg"><img class="img-responsive center-block" src="img/victoria/11.jpg" alt=""></a>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/012.jpg"><img class="img-responsive center-block" src="img/victoria/12.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/013.jpg"><img class="img-responsive center-block" src="img/victoria/13.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/014.jpg"><img class="img-responsive center-block" src="img/victoria/14.jpg" alt=""></a>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/015.jpg"><img class="img-responsive center-block" src="img/victoria/15.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/016.jpg"><img class="img-responsive center-block" src="img/victoria/16.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/017.jpg"><img class="img-responsive center-block" src="img/victoria/17.jpg" alt=""></a>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/018.jpg"><img class="img-responsive center-block" src="img/victoria/18.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/019.jpg"><img class="img-responsive center-block" src="img/victoria/19.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/020.jpg"><img class="img-responsive center-block" src="img/victoria/20.jpg" alt=""></a>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/021.jpg"><img class="img-responsive center-block" src="img/victoria/21.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/022.jpg"><img class="img-responsive center-block" src="img/victoria/22.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/023.jpg"><img class="img-responsive center-block" src="img/victoria/23.jpg" alt=""></a>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/024.jpg"><img class="img-responsive center-block" src="img/victoria/24.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/025.jpg"><img class="img-responsive center-block" src="img/victoria/25.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/026.jpg"><img class="img-responsive center-block" src="img/victoria/26.jpg" alt=""></a>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="carousel-caption center-block">
-<div class="col-xs-4 img-spacing"></div>
-<div class="col-xs-4 img-spacing">
-<a class="item" href="img/victoria/027.jpg"><img class="img-responsive center-block" src="img/victoria/27.jpg" alt=""></a>
-</div>
-<div class="col-xs-4 img-spacing"></div>
-</div>
-</div>
--->
+
                 <div class="item active">
                     <div class="carousel-caption center-block">
                         <div class="col-xs-4 img-spacing">
@@ -218,7 +104,7 @@
                 <div class="col-sm-4">
                     <img class="no-drag" src="img/index/modelos/oxford.png" alt="Oxford">
                     <h2 class="title green">OXFORD</h2>
-                    <p class="text-content">Terreno 120 m² / Const. 116 m²</p>
+                    <p class="text-content">Terreno 120 m² / Const. 153 m²</p>
                     <a class="center-block green-btn" href="modelos/oxford.php">Ver Modelo</a>
                 </div>
                 <div class="col-sm-4">
@@ -231,22 +117,6 @@
         </div>
     </div>
 
-    <!-- VIDEO -->
-    <!--
-<div class="video container center spacing">
-<h1 class="title orange">VIDEO</h1>
-<div class="video-container">
-<img href="#video-modal" data-toggle="modal" data-target="#video-modal" class="" src="img/index/icons/play2.png" alt="Play">
-</div>
-</div>
-<div id="video-modal" class="modal fade video-modal" role="dialog">
-<div class="modal-dialog video">
-<div class="modal-content">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pghnJ6j4LXE" frameborder="0" allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-<!-- VIDEO -->
     <div class="map" fracc="victoria">
         <a href="https://www.google.com.mx/maps/place/28%C2%B035'37.7%22N+106%C2%B009'26.8%22W/@28.5938207,-106.1596327,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=es" target="_blank">
             <img src="img/victoria/map/map.png" alt="Mapa">
