@@ -61,18 +61,6 @@
                             <a class="item" href="img/victoria/032.jpg"><img class="img-responsive center-block" src="img/victoria/32.jpg" alt=""></a>
                         </div>
                         <div class="col-xs-4 img-spacing">
-                            <a class="item" href="img/victoria/033.jpg"><img class="img-responsive center-block" src="img/victoria/33.jpg" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="carousel-caption center-block">
-                        <div class="col-xs-4 img-spacing">
-                        </div>
-                        <div class="col-xs-4 img-spacing">
-                            <a class="item" href="img/victoria/034.jpg"><img class="img-responsive center-block" src="img/victoria/34.jpg" alt=""></a>
-                        </div>
-                        <div class="col-xs-4 img-spacing">
                         </div>
                     </div>
                 </div>
